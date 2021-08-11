@@ -1,3 +1,0 @@
-This can be whatever we want.
-
-It's placed at the top of the built plugin file.
