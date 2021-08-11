@@ -1,2 +1,8 @@
-dist/
 node_modules/
+
+.DS_Store
+desktop.ini
+plugins
+src
+plugins.json
+.github/workflows/json_validate.yml
